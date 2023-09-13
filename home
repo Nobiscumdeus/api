@@ -1,0 +1,73 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "specialty": "Cardiologist",
+      "location": {
+        "state": "California",
+        "county": "Los Angeles County",
+        "country": "United States"
+      },
+      "contact": {
+        "email": "john.smith@example.com",
+        "phone": "+1 (555) 123-4567"
+      },
+      "education": [
+        {
+          "degree": "Doctor of Medicine (MD)",
+          "university": "University of California, Los Angeles"
+        },
+        {
+          "degree": "Fellowship in Cardiology",
+          "university": "Stanford University"
+        }
+      ],
+      "experience": {
+        "years": 15,
+        "hospital": "St. Mary's Hospital"
+      },
+      "awards": [
+        "Outstanding Cardiologist Award - 2020",
+        "American Heart Association Excellence Award - 2018"
+      ],
+      "bio": "Dr. John Smith is a highly experienced cardiologist...",
+      "image_url": "https://example.com/john-smith.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Doe",
+      "specialty": "Pediatrician",
+      "location": {
+        "state": "Texas",
+        "county": "Harris County",
+        "country": "United States"
+      },
+      "contact": {
+        "email": "jane.doe@example.com",
+        "phone": "+1 (555) 987-6543"
+      },
+      "education": [
+        {
+          "degree": "Doctor of Medicine (MD)",
+          "university": "University of Texas Medical School"
+        },
+        {
+          "degree": "Pediatrics Residency",
+          "university": "Texas Children's Hospital"
+        }
+      ],
+      "experience": {
+        "years": 12,
+        "hospital": "Children's Hospital of Houston"
+      },
+      "awards": [
+        "Top Pediatrician in Harris County - 2019",
+        "Children's Health Advocate Award - 2017"
+      ],
+      "bio": "Dr. Jane Doe is a dedicated pediatrician...",
+      "image_url": "https://example.com/jane-doe.jpg"
+    }
+    // Add more doctor entries as needed
+  ]
+}
